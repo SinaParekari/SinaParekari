@@ -1,6 +1,8 @@
 Hi there! 👋 I’m Sina Parekari
 I am a Software Developer and Computer Engineering student at the University of Tabriz. I am passionate about building efficient backend systems, exploring AI, and understanding low-level system architectures.
 
+###
+
 🛠 Tech Stack & Skills
 Languages: Python (Primary), Java
 Web Frameworks: Django, Django REST Framework (DRF)
